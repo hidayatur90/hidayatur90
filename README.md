@@ -3,7 +3,7 @@ Hi 👋 My name is Muhammad Hidayatur Rahman
 
 * 🌍  I'm based in Bondowoso, Indonesia
 * ✉️  You can contact me at [hidabaik@gmail.com](mailto:hidabaik@gmail.com)
-* 🧠  I'm learning Laravel right now
+* 🧠  New Tech
 
 <a href="https://www.twitter.com/HDBoyz1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HDBoyz1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
