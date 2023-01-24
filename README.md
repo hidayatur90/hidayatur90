@@ -5,11 +5,11 @@ Hi 👋 My name is Muhammad Hidayatur Rahman
 * ✉️  You can contact me at [hidabaik@gmail.com](mailto:hidabaik@gmail.com)
 * 🧠  I'm interested in Software Developer especially on Website Dev using Laravel and Mobile Apps using Flutter. 
 
-#<a href="https://www.twitter.com/HDBoyz1" target="_blank" rel="noreferrer"><img
+<!--<a href="https://www.twitter.com/HDBoyz1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HDBoyz1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/hidayatur90" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hidayatur90?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+-->
 ### Skills
 
 <p align="left">
